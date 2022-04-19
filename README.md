@@ -1,4 +1,4 @@
-# SendEmail
+# Send Email Practice In Console
 The company X wants to develop a console application to send out marketing email to its
 potential customers. The marketing team has already prepared an email template for the
 campaign. The email template has some placeholders like {{TITLE}},
