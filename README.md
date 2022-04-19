@@ -24,3 +24,7 @@ errors.csv file (the format should be the same as the customers.csv file)
 
 Result when running the program:
 ![image](https://user-images.githubusercontent.com/59599077/164012937-dcd61896-5355-4020-8246-996851038c0e.png)
+Error file:
+![image](https://user-images.githubusercontent.com/59599077/164014351-eee58134-828c-4227-99f1-4d979b8c9cbe.png)
+Output file:
+![image](https://user-images.githubusercontent.com/59599077/164014884-679dda37-da77-4c51-876b-5d7d10b365fc.png)
